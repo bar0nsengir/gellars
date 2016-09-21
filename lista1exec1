@@ -7,5 +7,5 @@ int main ()
   //start of code...
   setlocale(LC_ALL, "Portuguese");
  
-  
+  system("pause");
 }
