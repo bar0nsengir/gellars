@@ -1,0 +1,11 @@
+#include <iostream>
+#include <locale.h> // permite caracteres regionais no texto
+using namspace std;
+
+int main ()
+{
+  //start of code...
+  setlocale(LC_ALL, "Portuguese");
+ 
+  
+}
